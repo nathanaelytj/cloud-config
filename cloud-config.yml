@@ -1,0 +1,3 @@
+#cloud-config
+ssh_authorized_keys:
+  - ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBADol4twUirlIGfMfPwSXfOO7T8jQ6qLlZraPvixudyiXN5iENTegpCYJO8Zswqjzf8Thgol+QF/PNwtVvUyikVJXgB8LsD203PFuX2MAQ+AhiWbYKbwHcBq3QUdYqJiWx5p/JPb15o6NhFjUVddCeXT75dgaf6SrvPQdKt7IFUjx2duXg== nathan@ntechp
